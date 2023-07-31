@@ -1,5 +1,3 @@
-Co-developer of [CGLib, CGApp, CGTeacherBackend, CGTasks and PyMarkLib](https://www.github.com/OGKG)
-
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=artandfi&show_icons=true&count_private=true&hide=issues&theme=synthwave&hide_border=true&include_all_commits=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=artandfi&&show_icons=true&layout=compact&hide_border=true&theme=synthwave">
